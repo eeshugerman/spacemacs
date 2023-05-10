@@ -304,6 +304,7 @@
         ("C" smerge-combine-with-next)
         ("K" smerge-kill-current)
         ("U" undo-tree-undo)
+        ("z" recenter)
         ("q" nil :exit t)
         ("?" spacemacs//smerge-ts-toggle-hint)))))
 
